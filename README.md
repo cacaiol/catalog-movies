@@ -1,11 +1,4 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -25,7 +18,7 @@
 <h3 align="center">Catalog Movies</h3>
 
   <p align="center">
-    Um catalogo de filmes feito em react, consumindo as API'S do TMDB API
+    Um catalogo de filmes feito em React.JS, consumindo as API'S do TMDB API
     <br />
     <a href="https://github.com/cacaiol/catalog-movies"><strong>Explore the docs »</strong></a>
     <br />
@@ -66,13 +59,11 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Projeto movies catalog
+Uma representação de um catálogo de filmes construído com React.JS e suas bibliotecas.
 
 ### Construído com
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 <!-- GETTING STARTED -->
 ## Começando
@@ -90,14 +81,14 @@ Este é um exemplo de como listar as coisas que você precisa para usar o softwa
 
 ### Instalação
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://developers.themoviedb.org/3](https://developers.themoviedb.org/3)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/cacaiol/catalog-movies
    ```
 3. Install NPM packages
    ```sh
-   npm install
+   npm install react-icons react-router-dom
    ```
 4. Enter your API in `config.js`
    ```js
