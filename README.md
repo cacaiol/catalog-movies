@@ -65,8 +65,8 @@
 <br/>
 
 
-                               Uma representação de um catálogo de filmes construído com React.JS e suas bibliotecas como, react-icons 
-                               para os estilização e react-router-dom para tratar as rotas do catálogo.  
+              Uma representação de um catálogo de filmes construído com React.JS e suas bibliotecas como, react-icons 
+              para os estilização e react-router-dom para tratar as rotas do catálogo.  
 
 ### Construído com
 
