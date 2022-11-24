@@ -57,9 +57,16 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/107950801/203817075-d6138ebb-0b9f-47dd-badb-12303ccb5c6c.png" width="900px">
+<img src="https://user-images.githubusercontent.com/107950801/203817201-5296b476-ef2f-4fbe-a3b7-0856c40d01e0.png" width="900px">
+<img src="https://user-images.githubusercontent.com/107950801/203817215-161d4f7c-1b04-4e17-ba0e-023be087fc9d.png" width="900px">
+</div>
+<br/>
 
-Uma representação de um catálogo de filmes construído com React.JS e suas bibliotecas.
+
+                               Uma representação de um catálogo de filmes construído com React.JS e suas bibliotecas como, react-icons 
+                               para os estilização e react-router-dom para tratar as rotas do catálogo.  
 
 ### Construído com
 
