@@ -18,7 +18,7 @@
 <h3 align="center">Catalog Movies</h3>
 
   <p align="center">
-    Um catalogo de filmes feito em React.JS, consumindo as API'S do TMDB API
+    Um catálogo de filmes feito em React.JS, consumindo as API'S do TMDB API
     <br />
     <a href="https://github.com/cacaiol/catalog-movies"><strong>Explore the docs »</strong></a>
     <br />
